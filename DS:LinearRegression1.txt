@@ -6,7 +6,7 @@ In future chapters we examine a case study relating to the data-driven approach 
 > how to implement linear regression: We will try to determine which measured outcomes best predict baseball runs and to do this we'll use linear regression. 
 > adjust for confounding in practice using R: We will also examine confounding, where extraneous variables affect the relationship between two or more other variables, leading to spurious associations. 
 
-We will learn:
+Learning goals:
 
 > How linear regression was originally developed by Galton
 > What confounding is and how to detect it
